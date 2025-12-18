@@ -13,5 +13,5 @@ Demo program : https://drive.google.com/file/d/1h1bWXPvWVnRZ_Ic-gjDi3gcHqEskywgO
 
 - **Upload File**  
   Sistem mendukung upload file dengan format:
-  **pdf, jpg, jpeg, png, docx, txt**.
+  **pdf, jpg, jpeg, png, docx, txt**.  
   Ukuran maksimal file adalah **5 MB**.
