@@ -10,3 +10,9 @@ Demo program : https://drive.google.com/file/d/1h1bWXPvWVnRZ_Ic-gjDi3gcHqEskywgO
 - **Proteksi Halaman (Frontend)**  
   Halaman **Master Barang** tidak dapat diakses langsung melalui URL.  
   User wajib **login terlebih dahulu** untuk mengakses halaman tersebut.
+
+- **Upload File**  
+  Sistem mendukung upload file dengan format:
+  **pdf, jpg, jpeg, png, docx, txt**
+
+  Ukuran maksimal file adalah **5 MB**.
